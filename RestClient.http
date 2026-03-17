@@ -1,0 +1,21 @@
+# POST http://127.0.0.1:5000/api/tareas 
+# Content-Type: application/json
+
+# {
+#         "titulo": "ejemplo post",
+#         "completa": true
+# }
+
+#dadwas
+
+# PUT http://127.0.0.1:5000/api/tareas/2 
+# Content-Type: application/json
+
+# {
+#         "id":2,
+#         "titulo": "ejemplo put",
+#         "completa": true
+# }
+
+DELETE http://127.0.0.1:5000/api/tareas/3 
+
